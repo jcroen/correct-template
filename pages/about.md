@@ -21,6 +21,6 @@ padding: 6em
 
 ## Learn More
 
-This is random paragraph content!
+Come look at our Galibert/Croen adventures throughout the years!
 
 {% include feature/image.html objectid="demo_001" %}
